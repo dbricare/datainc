@@ -1,6 +1,6 @@
 # Reducing risk in drug development by incorporating gene-disease association
 
-## Introduction
+### Introduction
 
 Over the last few decades, pharmaceutical companies have made significant progress in biochemical synthesis and can now generate vast quantities of potential therapeutics. Unfortunately, identifying relevant disease-causing molecular targets within the body is still a tedious and burdensome process. Fortunately, new tools in the form of genomic analyses are now gaining widespread acceptance and have the potential to dramatically improve molecular target indentification. 
 
