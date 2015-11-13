@@ -1,5 +1,4 @@
 # Reducing risk in drug development by incorporating gene-disease association
-___
 
 ## Introduction
 
@@ -7,7 +6,7 @@ Over the last few decades, pharmaceutical companies have made significant progre
 
 Many non-communicable diseases share a common mechanistic origin. In the body, genes carry information that dictate the structure and amount of proteins that must be synthesized for proper biological function. Environmental or hereditary factors can causes errors in gene encoding that lead to undesirable changes in these proteins. The constituents of these synthesis pathways represent the "molecular targets" drug researchers are seeking. By identifying the appropriate malfunctioning protein pathway, an effective drug therapy can be developed. 
 
-Because of recent technological advancements in genetic sequencing, a multitude of publicly-available databases now exist that describe in detail the link between genes, molecular targets, and disease. Unfortunately this information is organized in non-standard formats and accessed through file downloads, web APIs, or form-based queries making it difficult to use. Furthermore, once drug researchers select a target, there is still critical research on the business-side to be performed to ensure profitability of the fully-developed pharmaceutical.
+With recent technological advancements in genetic sequencing, a multitude of publicly-available databases now exist that describe in detail the link between genes, molecular targets, and disease. However, this information is organized in non-standard formats and accessed through various file downloads, web APIs, or form-based queries making it difficult to use. Furthermore, once drug researchers select a target, there is still critical research on the business-side to be performed to ensure profitability of the fully-developed pharmaceutical.
 
 I propose a project that will mate business and technical risk analysis to assist pharmaceutical companies in selecting drug development strategies that maximize the return on their R&D investment. In the first phase, I plan to compile all available gene-disease data into a central repository and develop an appropriate metric to identify the strongest gene-diseases links. In the second phase, I will search public health databases to find the rates of incidence for common and rare diseases with well-established genetic links and estimate market values. In the final phase, I will combine these two analyses to develop a list of gene targets and disease areas ranked by highest likelihood of achieving financial and technical success.
 
