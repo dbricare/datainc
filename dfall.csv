@@ -3,276 +3,276 @@
 1,Cleidocranial Dysplasia,3,0.763477022224114,RUNX2,runt-related transcription factor 2,Cleidocranial dysplasia occurs in approximately 1 per million individuals worldwide.,"Bones, muscles, and connective tissues"
 2,Glycogen Storage Disease Type IIb,4,0.741968536136738,LAMP2,lysosomal-associated membrane protein 2,"Danon disease is a rare condition, but the exact prevalence is unknown.","Bones, muscles, and connective tissues"
 3,Primary hyperoxaluria type 1,4,0.738144292485995,AGXT,alanine-glyoxylate aminotransferase,"Type 1 primary hyperoxaluria is estimated to occur in 1 to 3 per million people; it is more common in some Mediterranean countries, such as Tunisia.  Although the incidence of type 2 primary hyperoxaluria is unknown, it is less common than type 1.","Food, nutrition, and metabolism"
-4,Mucopolysaccharidosis VII,4,0.734742237644871,GUSB,"glucuronidase, beta",Not found. May be known by a different name.,Not found
+4,Mucopolysaccharidosis VII,4,0.734742237644871,GUSB,"glucuronidase, beta",Not found. May be known by a different name.,Category not identified
 5,Biotinidase Deficiency,4,0.733853862694847,BTD,biotinidase,"Profound or partial biotinidase deficiency occurs in approximately 1 in 60,000 newborns",Brain and nervous system
 6,Alkaptonuria,1,0.7338337958023621,HGD,"homogentisate 1,2-dioxygenase","This condition is rare, affecting 1 in 250,000 to 1 million people worldwide.  Alkaptonuria is more common in certain areas of Slovakia (where it has an incidence of about 1 in 19,000 people) and in the Dominican Republic.","Bones, muscles, and connective tissues"
-7,Oculocutaneous albinism type 1,3,0.733324714794402,TYR,tyrosinase,Not found. May be known by a different name.,Not found
+7,Oculocutaneous albinism type 1,3,0.733324714794402,TYR,tyrosinase,Not found. May be known by a different name.,Category not identified
 8,Focal Dermal Hypoplasia,2,0.732670813455874,PORCN,porcupine homolog (Drosophila),"Focal dermal hypoplasia appears to be a rare condition, although its exact prevalence is unknown.","Bones, muscles, and connective tissues"
 9,Congenital contractural arachnodactyly,3,0.7305387000520641,FBN2,fibrillin 2,"The prevalence of congenital contractural arachnodactyly is estimated to be less than 1 in 10,000 worldwide.","Bones, muscles, and connective tissues"
-10,Papillorenal syndrome,2,0.729355650813091,PAX2,paired box 2,Not found. May be known by a different name.,Not found
-11,"Paralysis, Hyperkalemic Periodic",3,0.7293266867469771,SCN4A,"sodium channel, voltage gated, type IV alpha subunit",Not found. May be known by a different name.,Not found
-12,Ulnar-mammary syndrome,4,0.72850513710281,TBX3,T-box 3,Not found. May be known by a different name.,Not found
-13,"Blepharophimosis, Ptosis, and Epicanthus Inversus",3,0.728270663491315,FOXL2,forkhead box L2,Not found. May be known by a different name.,Not found
-14,Autosomal Dominant Lateral Temporal Lobe Epilepsy,4,0.727087614252342,LGI1,"leucine-rich, glioma inactivated 1",Not found. May be known by a different name.,Not found
-15,Triglyceride storage disease with impaired long-chain fatty acid oxidation,3,0.725953595971967,ABHD5,abhydrolase domain containing 5,Not found. May be known by a different name.,Not found
-16,"Vitamin D Hydroxylation-Deficient Rickets, Type 1A",2,0.7251030822616858,CYP27B1,"cytochrome P450, family 27, subfamily B, polypeptide 1",Not found. May be known by a different name.,Not found
+10,Papillorenal syndrome,2,0.729355650813091,PAX2,paired box 2,Not found. May be known by a different name.,Category not identified
+11,"Paralysis, Hyperkalemic Periodic",3,0.7293266867469771,SCN4A,"sodium channel, voltage gated, type IV alpha subunit",Not found. May be known by a different name.,Category not identified
+12,Ulnar-mammary syndrome,4,0.72850513710281,TBX3,T-box 3,Not found. May be known by a different name.,Category not identified
+13,"Blepharophimosis, Ptosis, and Epicanthus Inversus",3,0.728270663491315,FOXL2,forkhead box L2,Not found. May be known by a different name.,Category not identified
+14,Autosomal Dominant Lateral Temporal Lobe Epilepsy,4,0.727087614252342,LGI1,"leucine-rich, glioma inactivated 1",Not found. May be known by a different name.,Category not identified
+15,Triglyceride storage disease with impaired long-chain fatty acid oxidation,3,0.725953595971967,ABHD5,abhydrolase domain containing 5,Not found. May be known by a different name.,Category not identified
+16,"Vitamin D Hydroxylation-Deficient Rickets, Type 1A",2,0.7251030822616858,CYP27B1,"cytochrome P450, family 27, subfamily B, polypeptide 1",Not found. May be known by a different name.,Category not identified
 17,Allan-Herndon-Dudley syndrome,2,0.724819577691592,SLC16A2,"solute carrier family 16, member 2 (thyroid hormone transporter)",Allan-Herndon-Dudley syndrome appears to be a rare disorder. About 25 families with individuals affected by this condition have been reported worldwide.,Brain and nervous system
-18,"Episodic Ataxia, Type 1",2,0.7245360731214989,KCNA1,"potassium channel, voltage gated shaker related subfamily A, member 1",Not found. May be known by a different name.,Not found
+18,"Episodic Ataxia, Type 1",2,0.7245360731214989,KCNA1,"potassium channel, voltage gated shaker related subfamily A, member 1",Not found. May be known by a different name.,Category not identified
 19,Giant Axonal Neuropathy,4,0.7242525685514051,GAN,gigaxonin,Giant axonal neuropathy is a very rare disorder; the incidence is unknown.,Brain and nervous system
-20,Lymphedema distichiasis syndrome,1,0.7242525685514051,FOXC2,forkhead box C2,"The prevalence of lymphedema-distichiasis syndrome is unknown.   Because the extra eyelashes can be overlooked during a medical examination, researchers believe that some people with this condition may be misdiagnosed as having lymphedema only.",Not found
-21,Systemic carnitine deficiency,2,0.7239690639813109,SLC22A5,"solute carrier family 22 (organic cation/carnitine transporter), member 5",Not found. May be known by a different name.,Not found
-22,Hyperparathyroidism 1,4,0.7239690639813109,MEN1,multiple endocrine neoplasia I,Not found. May be known by a different name.,Not found
-23,Glycogen Storage Disease IB,2,0.723685559411218,SLC37A4,"solute carrier family 37 (glucose-6-phosphate transporter), member 4",Not found. May be known by a different name.,Not found
-24,Bestrophinopathy,1,0.723685559411218,BEST1,bestrophin 1,Not found. May be known by a different name.,Not found
-25,Platelet Glycoprotein IV Deficiency,3,0.723685559411218,CD36,CD36 molecule (thrombospondin receptor),Not found. May be known by a different name.,Not found
-26,Lipoid congenital adrenal hyperplasia,4,0.723685559411218,STAR,steroidogenic acute regulatory protein,Not found. May be known by a different name.,Not found
+20,Lymphedema distichiasis syndrome,1,0.7242525685514051,FOXC2,forkhead box C2,"The prevalence of lymphedema-distichiasis syndrome is unknown.   Because the extra eyelashes can be overlooked during a medical examination, researchers believe that some people with this condition may be misdiagnosed as having lymphedema only.",Category not identified
+21,Systemic carnitine deficiency,2,0.7239690639813109,SLC22A5,"solute carrier family 22 (organic cation/carnitine transporter), member 5",Not found. May be known by a different name.,Category not identified
+22,Hyperparathyroidism 1,4,0.7239690639813109,MEN1,multiple endocrine neoplasia I,Not found. May be known by a different name.,Category not identified
+23,Glycogen Storage Disease IB,2,0.723685559411218,SLC37A4,"solute carrier family 37 (glucose-6-phosphate transporter), member 4",Not found. May be known by a different name.,Category not identified
+24,Bestrophinopathy,1,0.723685559411218,BEST1,bestrophin 1,Not found. May be known by a different name.,Category not identified
+25,Platelet Glycoprotein IV Deficiency,3,0.723685559411218,CD36,CD36 molecule (thrombospondin receptor),Not found. May be known by a different name.,Category not identified
+26,Lipoid congenital adrenal hyperplasia,4,0.723685559411218,STAR,steroidogenic acute regulatory protein,Not found. May be known by a different name.,Category not identified
 27,alpha-Mannosidosis,1,0.723685559411218,MAN2B1,"mannosidase, alpha, class 2B, member 1","Alpha-mannosidosis is estimated to occur in approximately 1 in 500,000 people worldwide.","Food, nutrition, and metabolism"
-28,Thiopurine S methyltranferase deficiency,1,0.723402054841124,TPMT,thiopurine S-methyltransferase,Not found. May be known by a different name.,Not found
-29,"Muscular dystrophy congenital, merosin negative",3,0.723402054841124,LAMA2,"laminin, alpha 2",Not found. May be known by a different name.,Not found
+28,Thiopurine S methyltranferase deficiency,1,0.723402054841124,TPMT,thiopurine S-methyltransferase,Not found. May be known by a different name.,Category not identified
+29,"Muscular dystrophy congenital, merosin negative",3,0.723402054841124,LAMA2,"laminin, alpha 2",Not found. May be known by a different name.,Category not identified
 30,Hyperprolinemia,4,0.7231185502710301,PRODH,proline dehydrogenase (oxidase) 1,It is difficult to determine the prevalence of hyperprolinemia type I because most people with the condition do not have any symptoms. Hyperprolinemia type II is a rare condition; its prevalence is also unknown.,"Food, nutrition, and metabolism"
-31,Hand foot uterus syndrome,3,0.7231185502710301,HOXA13,homeobox A13,Not found. May be known by a different name.,Not found
-32,Convulsions benign familial neonatal dominant form,4,0.7231185502710301,KCNQ3,"potassium channel, voltage gated KQT-like subfamily Q, member 3",Not found. May be known by a different name.,Not found
-33,X-linked periventricular heterotopia,3,0.7231185502710301,FLNA,"filamin A, alpha",Not found. May be known by a different name.,Not found
+31,Hand foot uterus syndrome,3,0.7231185502710301,HOXA13,homeobox A13,Not found. May be known by a different name.,Category not identified
+32,Convulsions benign familial neonatal dominant form,4,0.7231185502710301,KCNQ3,"potassium channel, voltage gated KQT-like subfamily Q, member 3",Not found. May be known by a different name.,Category not identified
+33,X-linked periventricular heterotopia,3,0.7231185502710301,FLNA,"filamin A, alpha",Not found. May be known by a different name.,Category not identified
 34,Popliteal Pterygium Syndrome,2,0.7231185502710301,IRF6,interferon regulatory factor 6,"Popliteal pterygium syndrome is a rare condition, occurring in approximately 1 in 300,000 individuals.","Bones, muscles, and connective tissues"
 35,Argininosuccinic Aciduria,3,0.722835045700937,ASL,argininosuccinate lyase,"Argininosuccinic aciduria occurs in approximately 1 in 70,000 newborns.","Food, nutrition, and metabolism"
-36,Doyne honeycomb retinal dystrophy,2,0.722835045700937,EFEMP1,EGF containing fibulin-like extracellular matrix protein 1,Not found. May be known by a different name.,Not found
-37,"Craniosynostosis, Type 2",1,0.722835045700937,MSX2,msh homeobox 2,Not found. May be known by a different name.,Not found
-38,Brachydactyly type C,3,0.722551541130843,GDF5,growth differentiation factor 5,Not found. May be known by a different name.,Not found
-39,"Hemochromatosis, type 3",3,0.722551541130843,TFR2,transferrin receptor 2,Not found. May be known by a different name.,Not found
-40,"Oto-palato-digital syndrome, type 2",1,0.722551541130843,FLNA,"filamin A, alpha",Not found. May be known by a different name.,Not found
+36,Doyne honeycomb retinal dystrophy,2,0.722835045700937,EFEMP1,EGF containing fibulin-like extracellular matrix protein 1,Not found. May be known by a different name.,Category not identified
+37,"Craniosynostosis, Type 2",1,0.722835045700937,MSX2,msh homeobox 2,Not found. May be known by a different name.,Category not identified
+38,Brachydactyly type C,3,0.722551541130843,GDF5,growth differentiation factor 5,Not found. May be known by a different name.,Category not identified
+39,"Hemochromatosis, type 3",3,0.722551541130843,TFR2,transferrin receptor 2,Not found. May be known by a different name.,Category not identified
+40,"Oto-palato-digital syndrome, type 2",1,0.722551541130843,FLNA,"filamin A, alpha",Not found. May be known by a different name.,Category not identified
 41,Legius syndrome,3,0.722551541130843,SPRED1,"sprouty-related, EVH1 domain containing 1",The prevalence of Legius syndrome is unknown. Many individuals with this disorder are likely misdiagnosed because the signs and symptoms of Legius syndrome are similar to those of neurofibromatosis type 1.,"Skin, hair, and nails"
-42,Johanson Blizzard syndrome,1,0.722268036560749,UBR1,ubiquitin protein ligase E3 component n-recognin 1,Not found. May be known by a different name.,Not found
-43,"Niemann-Pick Disease, Type A",4,0.722268036560749,SMPD1,"sphingomyelin phosphodiesterase 1, acid lysosomal",Not found. May be known by a different name.,Not found
+42,Johanson Blizzard syndrome,1,0.722268036560749,UBR1,ubiquitin protein ligase E3 component n-recognin 1,Not found. May be known by a different name.,Category not identified
+43,"Niemann-Pick Disease, Type A",4,0.722268036560749,SMPD1,"sphingomyelin phosphodiesterase 1, acid lysosomal",Not found. May be known by a different name.,Category not identified
 44,Kleefstra Syndrome,1,0.722268036560749,EHMT1,euchromatic histone-lysine N-methyltransferase 1,The prevalence of Kleefstra syndrome is unknown. Only recently has testing become available to distinguish it from other disorders with similar features.,Brain and nervous system
-45,"Plasminogen Deficiency, Type I",2,0.722268036560749,PLG,plasminogen,Not found. May be known by a different name.,Not found
-46,Thiamine responsive megaloblastic anemia syndrome,1,0.722268036560749,SLC19A2,"solute carrier family 19 (thiamine transporter), member 2",Thiamine-responsive megaloblastic anemia syndrome has been reported in approximately 30 families worldwide. Its prevalence is unknown.,Not found
-47,Ehlers-Danlos syndrome type 6,2,0.7219845319906558,PLOD1,"procollagen-lysine, 2-oxoglutarate 5-dioxygenase 1",Not found. May be known by a different name.,Not found
-48,"Ectodermal Dysplasia, Hypohidrotic, Autosomal Recessive",2,0.7219845319906558,EDAR,ectodysplasin A receptor,Not found. May be known by a different name.,Not found
-49,LIG4 Syndrome,2,0.7219845319906558,LIG4,"ligase IV, DNA, ATP-dependent",Not found. May be known by a different name.,Not found
-50,Arterial calcification of infancy,2,0.7219845319906558,ENPP1,ectonucleotide pyrophosphatase/phosphodiesterase 1,Not found. May be known by a different name.,Not found
-51,Mosaic variegated aneuploidy syndrome,4,0.7219845319906558,BUB1B,BUB1 mitotic checkpoint serine/threonine kinase B,Not found. May be known by a different name.,Not found
-52,Osteolysis hereditary multicentric,1,0.7219845319906558,MMP2,"matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)",Not found. May be known by a different name.,Not found
+45,"Plasminogen Deficiency, Type I",2,0.722268036560749,PLG,plasminogen,Not found. May be known by a different name.,Category not identified
+46,Thiamine responsive megaloblastic anemia syndrome,1,0.722268036560749,SLC19A2,"solute carrier family 19 (thiamine transporter), member 2",Thiamine-responsive megaloblastic anemia syndrome has been reported in approximately 30 families worldwide. Its prevalence is unknown.,Category not identified
+47,Ehlers-Danlos syndrome type 6,2,0.7219845319906558,PLOD1,"procollagen-lysine, 2-oxoglutarate 5-dioxygenase 1",Not found. May be known by a different name.,Category not identified
+48,"Ectodermal Dysplasia, Hypohidrotic, Autosomal Recessive",2,0.7219845319906558,EDAR,ectodysplasin A receptor,Not found. May be known by a different name.,Category not identified
+49,LIG4 Syndrome,2,0.7219845319906558,LIG4,"ligase IV, DNA, ATP-dependent",Not found. May be known by a different name.,Category not identified
+50,Arterial calcification of infancy,2,0.7219845319906558,ENPP1,ectonucleotide pyrophosphatase/phosphodiesterase 1,Not found. May be known by a different name.,Category not identified
+51,Mosaic variegated aneuploidy syndrome,4,0.7219845319906558,BUB1B,BUB1 mitotic checkpoint serine/threonine kinase B,Not found. May be known by a different name.,Category not identified
+52,Osteolysis hereditary multicentric,1,0.7219845319906558,MMP2,"matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)",Not found. May be known by a different name.,Category not identified
 53,succinic semialdehyde dehydrogenase deficiency,3,0.7219845319906558,ALDH5A1,"aldehyde dehydrogenase 5 family, member A1",Approximately 350 people with succinic semialdehyde dehydrogenase deficiency have been reported worldwide.,Brain and nervous system
 54,Char syndrome,1,0.7217010274205621,TFAP2B,transcription factor AP-2 beta (activating enhancer binding protein 2 beta),"Char syndrome is rare, although its exact incidence is unknown.  Only a few families with this condition have been identified worldwide.","Bones, muscles, and connective tissues"
-55,Achondrogenesis type 2,3,0.7217010274205621,COL2A1,"collagen, type II, alpha 1","Achondrogenesis types 1A and 1B are rare genetic disorders; their incidence is unknown. Combined, achondrogenesis type 2 and hypochondrogenesis (a similar skeletal disorder) occur in 1 in 40,000 to 60,000 newborns.Read more about hypochondrogenesis.",Not found
-56,"Robinow syndrome, autosomal recessive",2,0.7217010274205621,ROR2,receptor tyrosine kinase-like orphan receptor 2,Not found. May be known by a different name.,Not found
-57,Cutis Gyrata Syndrome of Beare And Stevenson,1,0.7217010274205621,FGFR2,fibroblast growth factor receptor 2,Not found. May be known by a different name.,Not found
-58,"Rhizomelic chondrodysplasia punctata, type 1",4,0.7217010274205621,PEX7,peroxisomal biogenesis factor 7,Not found. May be known by a different name.,Not found
-59,"Hemochromatosis, type 4",2,0.7217010274205621,SLC40A1,"solute carrier family 40 (iron-regulated transporter), member 1",Not found. May be known by a different name.,Not found
-60,Medullary Cystic Kidney Disease 2,1,0.7217010274205621,UMOD,uromodulin,Not found. May be known by a different name.,Not found
-61,"Maturity-Onset Diabetes of the Young, Type 1",4,0.7217010274205621,HNF4A,"hepatocyte nuclear factor 4, alpha",Not found. May be known by a different name.,Not found
-62,"Charcot-Marie-Tooth Disease, Type 4j",1,0.7217010274205621,FIG4,FIG4 phosphoinositide 5-phosphatase,Not found. May be known by a different name.,Not found
-63,"Charcot-Marie-Tooth disease, Type 4B1",4,0.7217010274205621,MTMR2,myotubularin related protein 2,Not found. May be known by a different name.,Not found
-64,"Charcot-Marie-Tooth disease, Type 4C",1,0.7217010274205621,SH3TC2,SH3 domain and tetratricopeptide repeats 2,Not found. May be known by a different name.,Not found
-65,"Chondrodysplasia, Grebe type",1,0.7217010274205621,GDF5,growth differentiation factor 5,Not found. May be known by a different name.,Not found
-66,"Diarrhea 5, With Tufting Enteropathy, Congenital",2,0.7217010274205621,EPCAM,epithelial cell adhesion molecule,Not found. May be known by a different name.,Not found
-67,Dyggve-Melchior-Clausen syndrome,2,0.7217010274205621,DYM,dymeclin,Not found. May be known by a different name.,Not found
-68,Myeloperoxidase Deficiency,2,0.721417522850468,MPO,myeloperoxidase,Not found. May be known by a different name.,Not found
-69,Finnish lethal neonatal metabolic syndrome,2,0.721417522850468,BCS1L,BC1 (ubiquinol-cytochrome c reductase) synthesis-like,Not found. May be known by a different name.,Not found
-70,Ichthyosis prematurity syndrome,1,0.721417522850468,SLC27A4,"solute carrier family 27 (fatty acid transporter), member 4",Not found. May be known by a different name.,Not found
-71,Tietz syndrome,1,0.721417522850468,MITF,microphthalmia-associated transcription factor,Not found. May be known by a different name.,Not found
-72,"Leukokeratosis, Hereditary Mucosal",2,0.721417522850468,KRT4,"keratin 4, type II",Not found. May be known by a different name.,Not found
-73,"Usher syndrome, type 2A",2,0.721417522850468,USH2A,"Usher syndrome 2A (autosomal recessive, mild)",Not found. May be known by a different name.,Not found
-74,N-acetyl glutamate synthetase deficiency,1,0.721134018280375,NAGS,N-acetylglutamate synthase,Not found. May be known by a different name.,Not found
+55,Achondrogenesis type 2,3,0.7217010274205621,COL2A1,"collagen, type II, alpha 1","Achondrogenesis types 1A and 1B are rare genetic disorders; their incidence is unknown. Combined, achondrogenesis type 2 and hypochondrogenesis (a similar skeletal disorder) occur in 1 in 40,000 to 60,000 newborns.Read more about hypochondrogenesis.",Category not identified
+56,"Robinow syndrome, autosomal recessive",2,0.7217010274205621,ROR2,receptor tyrosine kinase-like orphan receptor 2,Not found. May be known by a different name.,Category not identified
+57,Cutis Gyrata Syndrome of Beare And Stevenson,1,0.7217010274205621,FGFR2,fibroblast growth factor receptor 2,Not found. May be known by a different name.,Category not identified
+58,"Rhizomelic chondrodysplasia punctata, type 1",4,0.7217010274205621,PEX7,peroxisomal biogenesis factor 7,Not found. May be known by a different name.,Category not identified
+59,"Hemochromatosis, type 4",2,0.7217010274205621,SLC40A1,"solute carrier family 40 (iron-regulated transporter), member 1",Not found. May be known by a different name.,Category not identified
+60,Medullary Cystic Kidney Disease 2,1,0.7217010274205621,UMOD,uromodulin,Not found. May be known by a different name.,Category not identified
+61,"Maturity-Onset Diabetes of the Young, Type 1",4,0.7217010274205621,HNF4A,"hepatocyte nuclear factor 4, alpha",Not found. May be known by a different name.,Category not identified
+62,"Charcot-Marie-Tooth Disease, Type 4j",1,0.7217010274205621,FIG4,FIG4 phosphoinositide 5-phosphatase,Not found. May be known by a different name.,Category not identified
+63,"Charcot-Marie-Tooth disease, Type 4B1",4,0.7217010274205621,MTMR2,myotubularin related protein 2,Not found. May be known by a different name.,Category not identified
+64,"Charcot-Marie-Tooth disease, Type 4C",1,0.7217010274205621,SH3TC2,SH3 domain and tetratricopeptide repeats 2,Not found. May be known by a different name.,Category not identified
+65,"Chondrodysplasia, Grebe type",1,0.7217010274205621,GDF5,growth differentiation factor 5,Not found. May be known by a different name.,Category not identified
+66,"Diarrhea 5, With Tufting Enteropathy, Congenital",2,0.7217010274205621,EPCAM,epithelial cell adhesion molecule,Not found. May be known by a different name.,Category not identified
+67,Dyggve-Melchior-Clausen syndrome,2,0.7217010274205621,DYM,dymeclin,Not found. May be known by a different name.,Category not identified
+68,Myeloperoxidase Deficiency,2,0.721417522850468,MPO,myeloperoxidase,Not found. May be known by a different name.,Category not identified
+69,Finnish lethal neonatal metabolic syndrome,2,0.721417522850468,BCS1L,BC1 (ubiquinol-cytochrome c reductase) synthesis-like,Not found. May be known by a different name.,Category not identified
+70,Ichthyosis prematurity syndrome,1,0.721417522850468,SLC27A4,"solute carrier family 27 (fatty acid transporter), member 4",Not found. May be known by a different name.,Category not identified
+71,Tietz syndrome,1,0.721417522850468,MITF,microphthalmia-associated transcription factor,Not found. May be known by a different name.,Category not identified
+72,"Leukokeratosis, Hereditary Mucosal",2,0.721417522850468,KRT4,"keratin 4, type II",Not found. May be known by a different name.,Category not identified
+73,"Usher syndrome, type 2A",2,0.721417522850468,USH2A,"Usher syndrome 2A (autosomal recessive, mild)",Not found. May be known by a different name.,Category not identified
+74,N-acetyl glutamate synthetase deficiency,1,0.721134018280375,NAGS,N-acetylglutamate synthase,Not found. May be known by a different name.,Category not identified
 75,Purine Nucleoside Phosphorylase Deficiency,3,0.721134018280375,PNP,purine nucleoside phosphorylase,Purine nucleoside phosphorylase deficiency is rare; only about 70 affected individuals have been identified. This disorder accounts for approximately 4 percent of all SCID cases.,Immune system
-76,Ter Haar syndrome,1,0.721134018280375,SH3PXD2B,SH3 and PX domains 2B,Not found. May be known by a different name.,Not found
-77,Giedion syndrome,1,0.721134018280375,TRPS1,trichorhinophalangeal syndrome I,Not found. May be known by a different name.,Not found
-78,"Stickler syndrome, type 2",2,0.721134018280375,COL11A1,"collagen, type XI, alpha 1",Not found. May be known by a different name.,Not found
-79,"Charcot-Marie-Tooth disease, Type 2D",1,0.721134018280375,GARS,glycyl-tRNA synthetase,Not found. May be known by a different name.,Not found
-80,Ehlers-Danlos syndrome type 2,4,0.721134018280375,COL5A1,"collagen, type V, alpha 1",Not found. May be known by a different name.,Not found
-81,"Microcephaly, Primary Autosomal Recessive, 1",1,0.721134018280375,MCPH1,microcephalin 1,Not found. May be known by a different name.,Not found
+76,Ter Haar syndrome,1,0.721134018280375,SH3PXD2B,SH3 and PX domains 2B,Not found. May be known by a different name.,Category not identified
+77,Giedion syndrome,1,0.721134018280375,TRPS1,trichorhinophalangeal syndrome I,Not found. May be known by a different name.,Category not identified
+78,"Stickler syndrome, type 2",2,0.721134018280375,COL11A1,"collagen, type XI, alpha 1",Not found. May be known by a different name.,Category not identified
+79,"Charcot-Marie-Tooth disease, Type 2D",1,0.721134018280375,GARS,glycyl-tRNA synthetase,Not found. May be known by a different name.,Category not identified
+80,Ehlers-Danlos syndrome type 2,4,0.721134018280375,COL5A1,"collagen, type V, alpha 1",Not found. May be known by a different name.,Category not identified
+81,"Microcephaly, Primary Autosomal Recessive, 1",1,0.721134018280375,MCPH1,microcephalin 1,Not found. May be known by a different name.,Category not identified
 82,Corticosteroid-Binding Globulin Deficiency,1,0.721134018280375,SERPINA6,"serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6","The prevalence of corticosteroid-binding globulin deficiency is unknown, but it is thought to be a rare disorder. However, because some people with the disorder have mild or no symptoms, it is likely that corticosteroid-binding globulin deficiency is underdiagnosed.","Food, nutrition, and metabolism"
-83,Retinal cone dystrophy 2,1,0.720850513710281,GUCY2D,"guanylate cyclase 2D, membrane (retina-specific)",Not found. May be known by a different name.,Not found
-84,Limb-girdle muscular dystrophy type 2F,1,0.720850513710281,SGCD,"sarcoglycan, delta (35kDa dystrophin-associated glycoprotein)",Not found. May be known by a different name.,Not found
-85,Exudative vitreoretinopathy 1,3,0.720850513710281,FZD4,frizzled class receptor 4,Not found. May be known by a different name.,Not found
-86,"VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 2",2,0.720850513710281,CASQ2,calsequestrin 2 (cardiac muscle),Not found. May be known by a different name.,Not found
-87,Brain Small Vessel Disease with Hemorrhage,4,0.720567009140187,COL4A1,"collagen, type IV, alpha 1",Not found. May be known by a different name.,Not found
-88,Retinitis Pigmentosa 12,1,0.720567009140187,CRB1,"crumbs family member 1, photoreceptor morphogenesis associated",Not found. May be known by a different name.,Not found
-89,"Neutrophilia, Hereditary",2,0.720567009140187,CSF3R,colony stimulating factor 3 receptor (granulocyte),Not found. May be known by a different name.,Not found
-90,"FANCONI ANEMIA, COMPLEMENTATION GROUP D2",2,0.720567009140187,FANCD2,"Fanconi anemia, complementation group D2",Not found. May be known by a different name.,Not found
-91,"Leukodystrophy, Hypomyelinating, 2",1,0.720567009140187,GJC2,"gap junction protein, gamma 2, 47kDa",Not found. May be known by a different name.,Not found
-92,"Charcot-Marie-Tooth disease, Type 2E",2,0.720567009140187,NEFL,"neurofilament, light polypeptide",Not found. May be known by a different name.,Not found
-93,"Platyspondylic Lethal Skeletal Dysplasia, Torrance Type",1,0.720567009140187,COL2A1,"collagen, type II, alpha 1",Not found. May be known by a different name.,Not found
-94,Holoprosencephaly 2,1,0.720567009140187,SIX3,SIX homeobox 3,Not found. May be known by a different name.,Not found
-95,Bamforth syndrome,4,0.720567009140187,FOXE1,forkhead box E1,Not found. May be known by a different name.,Not found
+83,Retinal cone dystrophy 2,1,0.720850513710281,GUCY2D,"guanylate cyclase 2D, membrane (retina-specific)",Not found. May be known by a different name.,Category not identified
+84,Limb-girdle muscular dystrophy type 2F,1,0.720850513710281,SGCD,"sarcoglycan, delta (35kDa dystrophin-associated glycoprotein)",Not found. May be known by a different name.,Category not identified
+85,Exudative vitreoretinopathy 1,3,0.720850513710281,FZD4,frizzled class receptor 4,Not found. May be known by a different name.,Category not identified
+86,"VENTRICULAR TACHYCARDIA, CATECHOLAMINERGIC POLYMORPHIC, 2",2,0.720850513710281,CASQ2,calsequestrin 2 (cardiac muscle),Not found. May be known by a different name.,Category not identified
+87,Brain Small Vessel Disease with Hemorrhage,4,0.720567009140187,COL4A1,"collagen, type IV, alpha 1",Not found. May be known by a different name.,Category not identified
+88,Retinitis Pigmentosa 12,1,0.720567009140187,CRB1,"crumbs family member 1, photoreceptor morphogenesis associated",Not found. May be known by a different name.,Category not identified
+89,"Neutrophilia, Hereditary",2,0.720567009140187,CSF3R,colony stimulating factor 3 receptor (granulocyte),Not found. May be known by a different name.,Category not identified
+90,"FANCONI ANEMIA, COMPLEMENTATION GROUP D2",2,0.720567009140187,FANCD2,"Fanconi anemia, complementation group D2",Not found. May be known by a different name.,Category not identified
+91,"Leukodystrophy, Hypomyelinating, 2",1,0.720567009140187,GJC2,"gap junction protein, gamma 2, 47kDa",Not found. May be known by a different name.,Category not identified
+92,"Charcot-Marie-Tooth disease, Type 2E",2,0.720567009140187,NEFL,"neurofilament, light polypeptide",Not found. May be known by a different name.,Category not identified
+93,"Platyspondylic Lethal Skeletal Dysplasia, Torrance Type",1,0.720567009140187,COL2A1,"collagen, type II, alpha 1",Not found. May be known by a different name.,Category not identified
+94,Holoprosencephaly 2,1,0.720567009140187,SIX3,SIX homeobox 3,Not found. May be known by a different name.,Category not identified
+95,Bamforth syndrome,4,0.720567009140187,FOXE1,forkhead box E1,Not found. May be known by a different name.,Category not identified
 96,Peroxisomal ACYL-COA oxidase deficiency,1,0.720567009140187,ACOX1,"acyl-CoA oxidase 1, palmitoyl",Peroxisomal acyl-CoA oxidase deficiency is a rare disorder. Its prevalence is unknown. Only a few dozen cases have been described in the medical literature.,Brain and nervous system
-97,"Charcot-Marie-Tooth Disease, Type 4H",1,0.720567009140187,FGD4,"FYVE, RhoGEF and PH domain containing 4",Not found. May be known by a different name.,Not found
-98,Lathosterolosis,3,0.720567009140187,SC5D,sterol-C5-desaturase,Not found. May be known by a different name.,Not found
-99,Synpolydactyly 1,2,0.720567009140187,HOXD13,homeobox D13,Not found. May be known by a different name.,Not found
-100,"Thyroid Hormone Resistance, Generalized, Autosomal Dominant",1,0.720567009140187,THRB,"thyroid hormone receptor, beta",Not found. May be known by a different name.,Not found
-101,"Immunodysregulation, Polyendocrinopathy, and Enteropathy, X-Linked",3,0.720567009140187,FOXP3,forkhead box P3,Not found. May be known by a different name.,Not found
-102,Oto-Palato-digital syndrome type 1,2,0.720567009140187,FLNA,"filamin A, alpha",Not found. May be known by a different name.,Not found
-103,Meckel syndrome type 3,3,0.720567009140187,TMEM67,transmembrane protein 67,Not found. May be known by a different name.,Not found
+97,"Charcot-Marie-Tooth Disease, Type 4H",1,0.720567009140187,FGD4,"FYVE, RhoGEF and PH domain containing 4",Not found. May be known by a different name.,Category not identified
+98,Lathosterolosis,3,0.720567009140187,SC5D,sterol-C5-desaturase,Not found. May be known by a different name.,Category not identified
+99,Synpolydactyly 1,2,0.720567009140187,HOXD13,homeobox D13,Not found. May be known by a different name.,Category not identified
+100,"Thyroid Hormone Resistance, Generalized, Autosomal Dominant",1,0.720567009140187,THRB,"thyroid hormone receptor, beta",Not found. May be known by a different name.,Category not identified
+101,"Immunodysregulation, Polyendocrinopathy, and Enteropathy, X-Linked",3,0.720567009140187,FOXP3,forkhead box P3,Not found. May be known by a different name.,Category not identified
+102,Oto-Palato-digital syndrome type 1,2,0.720567009140187,FLNA,"filamin A, alpha",Not found. May be known by a different name.,Category not identified
+103,Meckel syndrome type 3,3,0.720567009140187,TMEM67,transmembrane protein 67,Not found. May be known by a different name.,Category not identified
 104,Donnai-Barrow syndrome,1,0.720567009140187,LRP2,low density lipoprotein receptor-related protein 2,"Although its prevalence is unknown, Donnai-Barrow syndrome appears to be a rare disorder. A few dozen affected individuals have been reported in many regions of the world.",Brain and nervous system
 105,Guanidinoacetate methyltransferase deficiency,2,0.720567009140187,GAMT,guanidinoacetate N-methyltransferase,"Guanidinoacetate methyltransferase deficiency is a very rare disorder. About 80 affected individuals have been described in the medical literature. Of these, approximately one-third are of Portuguese origin.",Brain and nervous system
-106,Hyaluronidase Deficiency,2,0.720567009140187,HYAL1,hyaluronoglucosaminidase 1,Not found. May be known by a different name.,Not found
-107,Fuhrmann syndrome,1,0.720567009140187,WNT7A,"wingless-type MMTV integration site family, member 7A",Not found. May be known by a different name.,Not found
-108,"Cataract, Zonular Pulverulent 1",2,0.720567009140187,GJA8,"gap junction protein, alpha 8, 50kDa",Not found. May be known by a different name.,Not found
-109,Dent disease 1,2,0.720567009140187,CLCN5,"chloride channel, voltage-sensitive 5",Not found. May be known by a different name.,Not found
-110,Metaphyseal chondrodysplasia Schmid type,1,0.720567009140187,COL10A1,"collagen, type X, alpha 1",Not found. May be known by a different name.,Not found
-111,Fibular hypoplasia and complex brachydactyly,1,0.720567009140187,GDF5,growth differentiation factor 5,Not found. May be known by a different name.,Not found
-112,Mucolipidosis II Alpha Beta,1,0.720567009140187,GNPTAB,"N-acetylglucosamine-1-phosphate transferase, alpha and beta subunits","Mucolipidosis II alpha/beta is a rare disorder, although its exact prevalence is unknown. It is estimated to occur in about 1 in 100,000 to 400,000 individuals worldwide.",Not found
-113,"MYOPATHY, SPHEROID BODY",1,0.720567009140187,MYOT,myotilin,Not found. May be known by a different name.,Not found
-114,Hypotrichosis-Lymphedema-Telangiectasia Syndrome,1,0.720567009140187,SOX18,SRY (sex determining region Y)-box 18,Not found. May be known by a different name.,Not found
-115,"Xeroderma pigmentosum, variant type",2,0.720567009140187,POLH,"polymerase (DNA directed), eta",Not found. May be known by a different name.,Not found
-116,"Limb-girdle muscular dystrophy, type 2E",1,0.720567009140187,SGCB,"sarcoglycan, beta (43kDa dystrophin-associated glycoprotein)",Not found. May be known by a different name.,Not found
-117,Hermansky Pudlak syndrome 2,2,0.720567009140187,AP3B1,"adaptor-related protein complex 3, beta 1 subunit",Not found. May be known by a different name.,Not found
-118,"Hypokalemic Periodic Paralysis, Type 2",1,0.720567009140187,SCN4A,"sodium channel, voltage gated, type IV alpha subunit",Not found. May be known by a different name.,Not found
-119,"Maturity-Onset Diabetes of the Young, Type 4",2,0.720567009140187,PDX1,pancreatic and duodenal homeobox 1,Not found. May be known by a different name.,Not found
-120,"Tay-Sachs Disease, AB Variant",3,0.720283504570094,GM2A,GM2 ganglioside activator,Not found. May be known by a different name.,Not found
+106,Hyaluronidase Deficiency,2,0.720567009140187,HYAL1,hyaluronoglucosaminidase 1,Not found. May be known by a different name.,Category not identified
+107,Fuhrmann syndrome,1,0.720567009140187,WNT7A,"wingless-type MMTV integration site family, member 7A",Not found. May be known by a different name.,Category not identified
+108,"Cataract, Zonular Pulverulent 1",2,0.720567009140187,GJA8,"gap junction protein, alpha 8, 50kDa",Not found. May be known by a different name.,Category not identified
+109,Dent disease 1,2,0.720567009140187,CLCN5,"chloride channel, voltage-sensitive 5",Not found. May be known by a different name.,Category not identified
+110,Metaphyseal chondrodysplasia Schmid type,1,0.720567009140187,COL10A1,"collagen, type X, alpha 1",Not found. May be known by a different name.,Category not identified
+111,Fibular hypoplasia and complex brachydactyly,1,0.720567009140187,GDF5,growth differentiation factor 5,Not found. May be known by a different name.,Category not identified
+112,Mucolipidosis II Alpha Beta,1,0.720567009140187,GNPTAB,"N-acetylglucosamine-1-phosphate transferase, alpha and beta subunits","Mucolipidosis II alpha/beta is a rare disorder, although its exact prevalence is unknown. It is estimated to occur in about 1 in 100,000 to 400,000 individuals worldwide.",Category not identified
+113,"MYOPATHY, SPHEROID BODY",1,0.720567009140187,MYOT,myotilin,Not found. May be known by a different name.,Category not identified
+114,Hypotrichosis-Lymphedema-Telangiectasia Syndrome,1,0.720567009140187,SOX18,SRY (sex determining region Y)-box 18,Not found. May be known by a different name.,Category not identified
+115,"Xeroderma pigmentosum, variant type",2,0.720567009140187,POLH,"polymerase (DNA directed), eta",Not found. May be known by a different name.,Category not identified
+116,"Limb-girdle muscular dystrophy, type 2E",1,0.720567009140187,SGCB,"sarcoglycan, beta (43kDa dystrophin-associated glycoprotein)",Not found. May be known by a different name.,Category not identified
+117,Hermansky Pudlak syndrome 2,2,0.720567009140187,AP3B1,"adaptor-related protein complex 3, beta 1 subunit",Not found. May be known by a different name.,Category not identified
+118,"Hypokalemic Periodic Paralysis, Type 2",1,0.720567009140187,SCN4A,"sodium channel, voltage gated, type IV alpha subunit",Not found. May be known by a different name.,Category not identified
+119,"Maturity-Onset Diabetes of the Young, Type 4",2,0.720567009140187,PDX1,pancreatic and duodenal homeobox 1,Not found. May be known by a different name.,Category not identified
+120,"Tay-Sachs Disease, AB Variant",3,0.720283504570094,GM2A,GM2 ganglioside activator,Not found. May be known by a different name.,Category not identified
 121,Amish lethal microcephaly,1,0.720283504570094,SLC25A19,"solute carrier family 25 (mitochondrial thiamine pyrophosphate carrier), member 19",Amish lethal microcephaly occurs in approximately 1 in 500 newborns in the Old Order Amish population of Pennsylvania. It has not been found outside this population.,Brain and nervous system
-122,Leber Congenital Amaurosis 4,1,0.720283504570094,AIPL1,aryl hydrocarbon receptor interacting protein-like 1,Not found. May be known by a different name.,Not found
-123,"Bartter syndrome, antenatal , type 2",1,0.720283504570094,KCNJ1,"potassium channel, inwardly rectifying subfamily J, member 1",Not found. May be known by a different name.,Not found
-124,Metachromatic Leukodystrophy due to Saposin B Deficiency,1,0.720283504570094,PSAP,prosaposin,Not found. May be known by a different name.,Not found
-125,Marles Greenberg Persaud syndrome,1,0.720283504570094,FREM1,FRAS1 related extracellular matrix 1,Not found. May be known by a different name.,Not found
-126,"Spastic paraplegia 4, autosomal dominant",1,0.720283504570094,SPAST,spastin,Not found. May be known by a different name.,Not found
-127,"Fanconi Anemia, Complementation Group D1",1,0.720283504570094,BRCA2,"breast cancer 2, early onset",Not found. May be known by a different name.,Not found
-128,"Rhizomelic chondrodysplasia punctata, type 2",1,0.720283504570094,GNPAT,glyceronephosphate O-acyltransferase,Not found. May be known by a different name.,Not found
-129,"Oculocutaneous Albinism, Type IV",1,0.720283504570094,SLC45A2,"solute carrier family 45, member 2",Not found. May be known by a different name.,Not found
-130,"Bartter syndrome, antenatal type 1",1,0.720283504570094,SLC12A1,"solute carrier family 12 (sodium/potassium/chloride transporter), member 1",Not found. May be known by a different name.,Not found
-131,"Muscular Dystrophy, Congenital, Lmna-Related",1,0.720283504570094,LMNA,lamin A/C,Not found. May be known by a different name.,Not found
-132,"EXOSTOSES, MULTIPLE, TYPE II",2,0.720283504570094,EXT2,exostosin glycosyltransferase 2,Not found. May be known by a different name.,Not found
-133,"Exudative Vitreoretinopathy, Familial, X-Linked Recessive",1,0.720283504570094,NDP,Norrie disease (pseudoglioma),Not found. May be known by a different name.,Not found
-134,Oculocutaneous albinism type 1B,1,0.720283504570094,TYR,tyrosinase,Not found. May be known by a different name.,Not found
-135,Cone Dystrophy 3,1,0.720283504570094,GUCA1A,guanylate cyclase activator 1A (retina),Not found. May be known by a different name.,Not found
-136,Long Qt Syndrome 3,1,0.720283504570094,SCN5A,"sodium channel, voltage gated, type V alpha subunit",Not found. May be known by a different name.,Not found
-137,Sarcoma family syndrome of Li and Fraumeni,2,0.720283504570094,TP53,tumor protein p53,Not found. May be known by a different name.,Not found
-138,"Glycogen Storage Disease 0, Liver",1,0.720283504570094,GYS2,glycogen synthase 2 (liver),Not found. May be known by a different name.,Not found
-139,"Amaurosis congenita of Leber, type 2",1,0.720283504570094,RPE65,retinal pigment epithelium-specific protein 65kDa,Not found. May be known by a different name.,Not found
-140,Retinitis Pigmentosa 11,1,0.720283504570094,PRPF31,pre-mRNA processing factor 31,Not found. May be known by a different name.,Not found
-141,Retinitis Pigmentosa 14,2,0.720283504570094,TULP1,tubby like protein 1,Not found. May be known by a different name.,Not found
-142,"Epileptic Encephalopathy, Early Infantile, 2",1,0.720283504570094,CDKL5,cyclin-dependent kinase-like 5,Not found. May be known by a different name.,Not found
-143,Syndactyly Cenani Lenz type,2,0.720283504570094,LRP4,low density lipoprotein receptor-related protein 4,Not found. May be known by a different name.,Not found
-144,Multiple synostoses syndrome 2,2,0.720283504570094,GDF5,growth differentiation factor 5,Not found. May be known by a different name.,Not found
-145,"Cardiomyopathy, Familial Hypertrophic, 14",1,0.72,MYH6,"myosin, heavy chain 6, cardiac muscle, alpha",Not found. May be known by a different name.,Not found
-146,"Spherocytosis, Type 4",1,0.72,SLC4A1,"solute carrier family 4 (anion exchanger), member 1 (Diego blood group)",Not found. May be known by a different name.,Not found
-147,"Cataract, Pulverulent, Juvenile-Onset",1,0.72,MAF,v-maf avian musculoaponeurotic fibrosarcoma oncogene homolog,Not found. May be known by a different name.,Not found
-148,"Muscular Dystrophy, Congenital, Type 1D",1,0.72,LARGE,like-glycosyltransferase,Not found. May be known by a different name.,Not found
-149,"Epileptic Encephalopathy, Early Infantile, 1",3,0.72,ARX,aristaless related homeobox,Not found. May be known by a different name.,Not found
-150,Thyroid Dyshormonogenesis 6,1,0.72,DUOX2,dual oxidase 2,Not found. May be known by a different name.,Not found
-151,"Muscular Dystrophy, Limb-Girdle, Type 1C",1,0.72,CAV3,caveolin 3,Not found. May be known by a different name.,Not found
-152,"Deafness, Autosomal Recessive 63",1,0.72,LRTOMT,leucine rich transmembrane and O-methyltransferase domain containing,Not found. May be known by a different name.,Not found
-153,"Parkinson Disease 6, Autosomal Recessive Early-Onset",1,0.72,PINK1,PTEN induced putative kinase 1,Not found. May be known by a different name.,Not found
-154,"Ceroid Lipofuscinosis, Neuronal, 6",2,0.72,CLN6,"ceroid-lipofuscinosis, neuronal 6, late infantile, variant",Not found. May be known by a different name.,Not found
-155,"Cardiomyopathy, Dilated, 1M",1,0.72,CSRP3,cysteine and glycine-rich protein 3 (cardiac LIM protein),Not found. May be known by a different name.,Not found
-156,"Hemochromatosis, Type 2A",2,0.72,HFE2,hemochromatosis type 2 (juvenile),Not found. May be known by a different name.,Not found
-157,"Rhizomelic chondrodysplasia punctata, type 3",1,0.72,AGPS,alkylglycerone phosphate synthase,Not found. May be known by a different name.,Not found
-158,Nemaline myopathy 1,1,0.72,TPM3,tropomyosin 3,Not found. May be known by a different name.,Not found
-159,"Macular Degeneration, Age-Related, 4",2,0.72,CFH,complement factor H,Not found. May be known by a different name.,Not found
-160,"Deafness, Autosomal Recessive 1A",3,0.72,GJB2,"gap junction protein, beta 2, 26kDa",Not found. May be known by a different name.,Not found
-161,"PARKINSON DISEASE 5, AUTOSOMAL DOMINANT",1,0.72,UCHL1,ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase),Not found. May be known by a different name.,Not found
-162,"Progressive External Ophthalmoplegia with Mitochondrial DNA Deletions, Autosomal Dominant, 3",1,0.72,C10orf2,chromosome 10 open reading frame 2,Not found. May be known by a different name.,Not found
-163,Retinitis Pigmentosa 4,1,0.72,RHO,rhodopsin,Not found. May be known by a different name.,Not found
-164,Retinitis Pigmentosa 18,1,0.72,PRPF3,pre-mRNA processing factor 3,Not found. May be known by a different name.,Not found
-165,"Epidermolysis bullosa simplex, Ogna type",1,0.72,PLEC,plectin,Not found. May be known by a different name.,Not found
-166,"Deafness, Autosomal Recessive 2",1,0.72,MYO7A,myosin VIIA,Not found. May be known by a different name.,Not found
-167,"Arrhythmogenic Right Ventricular Dysplasia, Familial, 2",1,0.72,RYR2,ryanodine receptor 2 (cardiac),Not found. May be known by a different name.,Not found
-168,Retinitis Pigmentosa 7,1,0.72,PRPH2,"peripherin 2 (retinal degeneration, slow)",Not found. May be known by a different name.,Not found
-169,"Cardiomyopathy, Familial Hypertrophic, 2",1,0.72,TNNT2,troponin T type 2 (cardiac),Not found. May be known by a different name.,Not found
-170,"Ciliary Dyskinesia, Primary, 7",1,0.72,DNAH11,"dynein, axonemal, heavy chain 11",Not found. May be known by a different name.,Not found
-171,"Muscular Dystrophy, Limb-Girdle, Type 2I",1,0.72,FKRP,fukutin related protein,Not found. May be known by a different name.,Not found
-172,"Cerebral Amyloid Angiopathy, App-Related",1,0.72,APP,amyloid beta (A4) precursor protein,Not found. May be known by a different name.,Not found
-173,"HEMORRHAGIC DESTRUCTION OF THE BRAIN, SUBEPENDYMAL CALCIFICATION, AND CATARACTS",1,0.72,JAM3,junctional adhesion molecule 3,Not found. May be known by a different name.,Not found
-174,"Waardenburg Syndrome, Type 4b",1,0.72,EDN3,endothelin 3,Not found. May be known by a different name.,Not found
-175,"Spastic paraplegia 2, X-linked",1,0.72,PLP1,proteolipid protein 1,Not found. May be known by a different name.,Not found
-176,"Bartter Syndrome, Type 4A",3,0.72,BSND,barttin CLCNK-type chloride channel accessory beta subunit,Not found. May be known by a different name.,Not found
-177,"Muscular dystrophy, limb-girdle, type 1A",1,0.72,MYOT,myotilin,Not found. May be known by a different name.,Not found
-178,"Cardiomyopathy, Dilated, 1l",1,0.72,SGCD,"sarcoglycan, delta (35kDa dystrophin-associated glycoprotein)",Not found. May be known by a different name.,Not found
-179,"Usher Syndrome, Type IG",2,0.72,USH1G,Usher syndrome 1G (autosomal recessive),Not found. May be known by a different name.,Not found
-180,"Deafness, Autosomal Dominant 25",2,0.72,SLC17A8,"solute carrier family 17 (vesicular glutamate transporter), member 8",Not found. May be known by a different name.,Not found
+122,Leber Congenital Amaurosis 4,1,0.720283504570094,AIPL1,aryl hydrocarbon receptor interacting protein-like 1,Not found. May be known by a different name.,Category not identified
+123,"Bartter syndrome, antenatal , type 2",1,0.720283504570094,KCNJ1,"potassium channel, inwardly rectifying subfamily J, member 1",Not found. May be known by a different name.,Category not identified
+124,Metachromatic Leukodystrophy due to Saposin B Deficiency,1,0.720283504570094,PSAP,prosaposin,Not found. May be known by a different name.,Category not identified
+125,Marles Greenberg Persaud syndrome,1,0.720283504570094,FREM1,FRAS1 related extracellular matrix 1,Not found. May be known by a different name.,Category not identified
+126,"Spastic paraplegia 4, autosomal dominant",1,0.720283504570094,SPAST,spastin,Not found. May be known by a different name.,Category not identified
+127,"Fanconi Anemia, Complementation Group D1",1,0.720283504570094,BRCA2,"breast cancer 2, early onset",Not found. May be known by a different name.,Category not identified
+128,"Rhizomelic chondrodysplasia punctata, type 2",1,0.720283504570094,GNPAT,glyceronephosphate O-acyltransferase,Not found. May be known by a different name.,Category not identified
+129,"Oculocutaneous Albinism, Type IV",1,0.720283504570094,SLC45A2,"solute carrier family 45, member 2",Not found. May be known by a different name.,Category not identified
+130,"Bartter syndrome, antenatal type 1",1,0.720283504570094,SLC12A1,"solute carrier family 12 (sodium/potassium/chloride transporter), member 1",Not found. May be known by a different name.,Category not identified
+131,"Muscular Dystrophy, Congenital, Lmna-Related",1,0.720283504570094,LMNA,lamin A/C,Not found. May be known by a different name.,Category not identified
+132,"EXOSTOSES, MULTIPLE, TYPE II",2,0.720283504570094,EXT2,exostosin glycosyltransferase 2,Not found. May be known by a different name.,Category not identified
+133,"Exudative Vitreoretinopathy, Familial, X-Linked Recessive",1,0.720283504570094,NDP,Norrie disease (pseudoglioma),Not found. May be known by a different name.,Category not identified
+134,Oculocutaneous albinism type 1B,1,0.720283504570094,TYR,tyrosinase,Not found. May be known by a different name.,Category not identified
+135,Cone Dystrophy 3,1,0.720283504570094,GUCA1A,guanylate cyclase activator 1A (retina),Not found. May be known by a different name.,Category not identified
+136,Long Qt Syndrome 3,1,0.720283504570094,SCN5A,"sodium channel, voltage gated, type V alpha subunit",Not found. May be known by a different name.,Category not identified
+137,Sarcoma family syndrome of Li and Fraumeni,2,0.720283504570094,TP53,tumor protein p53,Not found. May be known by a different name.,Category not identified
+138,"Glycogen Storage Disease 0, Liver",1,0.720283504570094,GYS2,glycogen synthase 2 (liver),Not found. May be known by a different name.,Category not identified
+139,"Amaurosis congenita of Leber, type 2",1,0.720283504570094,RPE65,retinal pigment epithelium-specific protein 65kDa,Not found. May be known by a different name.,Category not identified
+140,Retinitis Pigmentosa 11,1,0.720283504570094,PRPF31,pre-mRNA processing factor 31,Not found. May be known by a different name.,Category not identified
+141,Retinitis Pigmentosa 14,2,0.720283504570094,TULP1,tubby like protein 1,Not found. May be known by a different name.,Category not identified
+142,"Epileptic Encephalopathy, Early Infantile, 2",1,0.720283504570094,CDKL5,cyclin-dependent kinase-like 5,Not found. May be known by a different name.,Category not identified
+143,Syndactyly Cenani Lenz type,2,0.720283504570094,LRP4,low density lipoprotein receptor-related protein 4,Not found. May be known by a different name.,Category not identified
+144,Multiple synostoses syndrome 2,2,0.720283504570094,GDF5,growth differentiation factor 5,Not found. May be known by a different name.,Category not identified
+145,"Cardiomyopathy, Familial Hypertrophic, 14",1,0.72,MYH6,"myosin, heavy chain 6, cardiac muscle, alpha",Not found. May be known by a different name.,Category not identified
+146,"Spherocytosis, Type 4",1,0.72,SLC4A1,"solute carrier family 4 (anion exchanger), member 1 (Diego blood group)",Not found. May be known by a different name.,Category not identified
+147,"Cataract, Pulverulent, Juvenile-Onset",1,0.72,MAF,v-maf avian musculoaponeurotic fibrosarcoma oncogene homolog,Not found. May be known by a different name.,Category not identified
+148,"Muscular Dystrophy, Congenital, Type 1D",1,0.72,LARGE,like-glycosyltransferase,Not found. May be known by a different name.,Category not identified
+149,"Epileptic Encephalopathy, Early Infantile, 1",3,0.72,ARX,aristaless related homeobox,Not found. May be known by a different name.,Category not identified
+150,Thyroid Dyshormonogenesis 6,1,0.72,DUOX2,dual oxidase 2,Not found. May be known by a different name.,Category not identified
+151,"Muscular Dystrophy, Limb-Girdle, Type 1C",1,0.72,CAV3,caveolin 3,Not found. May be known by a different name.,Category not identified
+152,"Deafness, Autosomal Recessive 63",1,0.72,LRTOMT,leucine rich transmembrane and O-methyltransferase domain containing,Not found. May be known by a different name.,Category not identified
+153,"Parkinson Disease 6, Autosomal Recessive Early-Onset",1,0.72,PINK1,PTEN induced putative kinase 1,Not found. May be known by a different name.,Category not identified
+154,"Ceroid Lipofuscinosis, Neuronal, 6",2,0.72,CLN6,"ceroid-lipofuscinosis, neuronal 6, late infantile, variant",Not found. May be known by a different name.,Category not identified
+155,"Cardiomyopathy, Dilated, 1M",1,0.72,CSRP3,cysteine and glycine-rich protein 3 (cardiac LIM protein),Not found. May be known by a different name.,Category not identified
+156,"Hemochromatosis, Type 2A",2,0.72,HFE2,hemochromatosis type 2 (juvenile),Not found. May be known by a different name.,Category not identified
+157,"Rhizomelic chondrodysplasia punctata, type 3",1,0.72,AGPS,alkylglycerone phosphate synthase,Not found. May be known by a different name.,Category not identified
+158,Nemaline myopathy 1,1,0.72,TPM3,tropomyosin 3,Not found. May be known by a different name.,Category not identified
+159,"Macular Degeneration, Age-Related, 4",2,0.72,CFH,complement factor H,Not found. May be known by a different name.,Category not identified
+160,"Deafness, Autosomal Recessive 1A",3,0.72,GJB2,"gap junction protein, beta 2, 26kDa",Not found. May be known by a different name.,Category not identified
+161,"PARKINSON DISEASE 5, AUTOSOMAL DOMINANT",1,0.72,UCHL1,ubiquitin carboxyl-terminal esterase L1 (ubiquitin thiolesterase),Not found. May be known by a different name.,Category not identified
+162,"Progressive External Ophthalmoplegia with Mitochondrial DNA Deletions, Autosomal Dominant, 3",1,0.72,C10orf2,chromosome 10 open reading frame 2,Not found. May be known by a different name.,Category not identified
+163,Retinitis Pigmentosa 4,1,0.72,RHO,rhodopsin,Not found. May be known by a different name.,Category not identified
+164,Retinitis Pigmentosa 18,1,0.72,PRPF3,pre-mRNA processing factor 3,Not found. May be known by a different name.,Category not identified
+165,"Epidermolysis bullosa simplex, Ogna type",1,0.72,PLEC,plectin,Not found. May be known by a different name.,Category not identified
+166,"Deafness, Autosomal Recessive 2",1,0.72,MYO7A,myosin VIIA,Not found. May be known by a different name.,Category not identified
+167,"Arrhythmogenic Right Ventricular Dysplasia, Familial, 2",1,0.72,RYR2,ryanodine receptor 2 (cardiac),Not found. May be known by a different name.,Category not identified
+168,Retinitis Pigmentosa 7,1,0.72,PRPH2,"peripherin 2 (retinal degeneration, slow)",Not found. May be known by a different name.,Category not identified
+169,"Cardiomyopathy, Familial Hypertrophic, 2",1,0.72,TNNT2,troponin T type 2 (cardiac),Not found. May be known by a different name.,Category not identified
+170,"Ciliary Dyskinesia, Primary, 7",1,0.72,DNAH11,"dynein, axonemal, heavy chain 11",Not found. May be known by a different name.,Category not identified
+171,"Muscular Dystrophy, Limb-Girdle, Type 2I",1,0.72,FKRP,fukutin related protein,Not found. May be known by a different name.,Category not identified
+172,"Cerebral Amyloid Angiopathy, App-Related",1,0.72,APP,amyloid beta (A4) precursor protein,Not found. May be known by a different name.,Category not identified
+173,"HEMORRHAGIC DESTRUCTION OF THE BRAIN, SUBEPENDYMAL CALCIFICATION, AND CATARACTS",1,0.72,JAM3,junctional adhesion molecule 3,Not found. May be known by a different name.,Category not identified
+174,"Waardenburg Syndrome, Type 4b",1,0.72,EDN3,endothelin 3,Not found. May be known by a different name.,Category not identified
+175,"Spastic paraplegia 2, X-linked",1,0.72,PLP1,proteolipid protein 1,Not found. May be known by a different name.,Category not identified
+176,"Bartter Syndrome, Type 4A",3,0.72,BSND,barttin CLCNK-type chloride channel accessory beta subunit,Not found. May be known by a different name.,Category not identified
+177,"Muscular dystrophy, limb-girdle, type 1A",1,0.72,MYOT,myotilin,Not found. May be known by a different name.,Category not identified
+178,"Cardiomyopathy, Dilated, 1l",1,0.72,SGCD,"sarcoglycan, delta (35kDa dystrophin-associated glycoprotein)",Not found. May be known by a different name.,Category not identified
+179,"Usher Syndrome, Type IG",2,0.72,USH1G,Usher syndrome 1G (autosomal recessive),Not found. May be known by a different name.,Category not identified
+180,"Deafness, Autosomal Dominant 25",2,0.72,SLC17A8,"solute carrier family 17 (vesicular glutamate transporter), member 8",Not found. May be known by a different name.,Category not identified
 181,Sitosterolemia,2,0.72,ABCG8,"ATP-binding cassette, sub-family G (WHITE), member 8","Only 80 to 100 individuals with sitosterolemia have been described in the medical literature. However, researchers believe that this condition is likely underdiagnosed because mild cases often do not come to medical attention. Studies suggest that the prevalence may be at least 1 in 50,000 people.",Blood/lymphatic system
 182,Sitosterolemia,2,0.72,ABCG5,"ATP-binding cassette, sub-family G (WHITE), member 5","Only 80 to 100 individuals with sitosterolemia have been described in the medical literature. However, researchers believe that this condition is likely underdiagnosed because mild cases often do not come to medical attention. Studies suggest that the prevalence may be at least 1 in 50,000 people.",Blood/lymphatic system
-183,"Charcot-Marie-Tooth disease, Type 2B1",1,0.72,LMNA,lamin A/C,Not found. May be known by a different name.,Not found
-184,Joubert syndrome 6,1,0.72,TMEM67,transmembrane protein 67,Not found. May be known by a different name.,Not found
-185,Focal Segmental Glomerulosclerosis 2,1,0.72,TRPC6,"transient receptor potential cation channel, subfamily C, member 6",Not found. May be known by a different name.,Not found
-186,"Cardiomyopathy, Dilated, 1g",1,0.72,TTN,titin,Not found. May be known by a different name.,Not found
-187,"Deafness, Autosomal Dominant 13",1,0.72,COL11A2,"collagen, type XI, alpha 2",Not found. May be known by a different name.,Not found
-188,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",1,0.72,SNCA,"synuclein, alpha (non A4 component of amyloid precursor)",Not found. May be known by a different name.,Not found
-189,"Granulomatous Disease, Chronic, Autosomal Recessive, Cytochrome B-Positive, Type I",1,0.72,NCF1,neutrophil cytosolic factor 1,Not found. May be known by a different name.,Not found
-190,Holoprosencephaly 3,2,0.72,SHH,sonic hedgehog,Not found. May be known by a different name.,Not found
-191,"Ceroid Lipofuscinosis, Neuronal, 10",1,0.72,CTSD,cathepsin D,Not found. May be known by a different name.,Not found
-192,MITOCHONDRIAL DNA DEPLETION SYNDROME 2 (MYOPATHIC TYPE),2,0.72,TK2,"thymidine kinase 2, mitochondrial",Not found. May be known by a different name.,Not found
-193,"Cardiomyopathy, Familial Hypertrophic, 4",1,0.72,MYBPC3,"myosin binding protein C, cardiac",Not found. May be known by a different name.,Not found
-194,"Granulomatous Disease, Chronic, X-Linked",1,0.72,CYBB,"cytochrome b-245, beta polypeptide",Not found. May be known by a different name.,Not found
-195,"Deafness, Autosomal Recessive 59",1,0.72,DFNB59,"deafness, autosomal recessive 59",Not found. May be known by a different name.,Not found
-196,"Spinocerebellar ataxia, autosomal recessive, with axonal neuropathy",1,0.72,TDP1,tyrosyl-DNA phosphodiesterase 1,Not found. May be known by a different name.,Not found
-197,"Deafness, Autosomal Recessive 12",2,0.72,CDH23,cadherin-related 23,Not found. May be known by a different name.,Not found
-198,"Immunodeficiency syndrome, variable",2,0.72,DNMT3B,DNA (cytosine-5-)-methyltransferase 3 beta,Not found. May be known by a different name.,Not found
-199,"Erythrocytosis, Familial, 2",2,0.72,VHL,"von Hippel-Lindau tumor suppressor, E3 ubiquitin protein ligase",Not found. May be known by a different name.,Not found
-200,"Spastic paraplegia 13, autosomal dominant",1,0.72,HSPD1,heat shock 60kDa protein 1 (chaperonin),Not found. May be known by a different name.,Not found
-201,"Night Blindness, Congenital Stationary, Autosomal Dominant 1",1,0.72,RHO,rhodopsin,Not found. May be known by a different name.,Not found
-202,Short QT Syndrome 1,1,0.72,KCNH2,"potassium channel, voltage gated eag related subfamily H, member 2",Not found. May be known by a different name.,Not found
-203,"Glycogen Storage Disease, Type IXD",1,0.72,PHKA1,"phosphorylase kinase, alpha 1 (muscle)",Not found. May be known by a different name.,Not found
-204,"Osteopetrosis, Autosomal Recessive 4",1,0.72,CLCN7,"chloride channel, voltage-sensitive 7",Not found. May be known by a different name.,Not found
-205,Exudative Vitreoretinopathy 5,1,0.72,TSPAN12,tetraspanin 12,Not found. May be known by a different name.,Not found
-206,"Night Blindness, Congenital Stationary, Autosomal Dominant 2",1,0.72,PDE6B,"phosphodiesterase 6B, cGMP-specific, rod, beta",Not found. May be known by a different name.,Not found
-207,"Hemophagocytic lymphohistiocytosis, familial, 2",4,0.72,PRF1,perforin 1 (pore forming protein),Not found. May be known by a different name.,Not found
-208,Brugada Syndrome 7,1,0.72,SCN3B,"sodium channel, voltage gated, type III beta subunit",Not found. May be known by a different name.,Not found
-209,"HEMOLYTIC ANEMIA, NONSPHEROCYTIC, DUE TO GLUCOSE PHOSPHATE ISOMERASE DEFICIENCY",1,0.72,GPI,glucose-6-phosphate isomerase,Not found. May be known by a different name.,Not found
-210,Meretoja syndrome,1,0.72,GSN,gelsolin,Not found. May be known by a different name.,Not found
-211,Atrial septal defect 2,1,0.72,GATA4,GATA binding protein 4,Not found. May be known by a different name.,Not found
-212,"Surfactant Metabolism Dysfunction, Pulmonary, 3",1,0.72,ABCA3,"ATP-binding cassette, sub-family A (ABC1), member 3",Not found. May be known by a different name.,Not found
-213,"Cardiomyopathy, Dilated, 1D",1,0.72,TNNT2,troponin T type 2 (cardiac),Not found. May be known by a different name.,Not found
-214,Osler-rendu-weber syndrome 2,1,0.72,ACVRL1,activin A receptor type II-like 1,Not found. May be known by a different name.,Not found
-215,Noonan Syndrome 4,1,0.72,SOS1,son of sevenless homolog 1 (Drosophila),Not found. May be known by a different name.,Not found
-216,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",1,0.72,LRRK2,leucine-rich repeat kinase 2,Not found. May be known by a different name.,Not found
-217,Bifunctional peroxisomal enzyme deficiency,2,0.72,HSD17B4,hydroxysteroid (17-beta) dehydrogenase 4,Not found. May be known by a different name.,Not found
-218,"Cardiomyopathy, Dilated, 1C",4,0.72,LDB3,LIM domain binding 3,Not found. May be known by a different name.,Not found
-219,"Myasthenic syndrome, congenital, type Id",4,0.72,MUSK,"muscle, skeletal, receptor tyrosine kinase",Not found. May be known by a different name.,Not found
-220,"Myasthenic syndrome, congenital, type Id",4,0.72,CHRNE,"cholinergic receptor, nicotinic, epsilon (muscle)",Not found. May be known by a different name.,Not found
-221,Joubert syndrome 5,1,0.72,CEP290,centrosomal protein 290kDa,Not found. May be known by a different name.,Not found
-222,"Osteopetrosis, Autosomal Recessive 1",2,0.72,TCIRG1,"T-cell, immune regulator 1, ATPase, H+ transporting, lysosomal V0 subunit A3",Not found. May be known by a different name.,Not found
-223,"Stickler Syndrome, Type I, Nonsyndromic Ocular",1,0.72,COL2A1,"collagen, type II, alpha 1",Not found. May be known by a different name.,Not found
-224,"Ceroid Lipofuscinosis, Neuronal, 1",1,0.72,PPT1,palmitoyl-protein thioesterase 1,Not found. May be known by a different name.,Not found
-225,"Heterotaxy, visceral, X-linked",2,0.72,ZIC3,Zic family member 3,Not found. May be known by a different name.,Not found
-226,Leber Congenital Amaurosis 14,1,0.72,LRAT,lecithin retinol acyltransferase (phosphatidylcholine--retinol O-acyltransferase),Not found. May be known by a different name.,Not found
-227,6-pyruvoyl-tetrahydropterin synthase deficiency,1,0.72,PTS,6-pyruvoyltetrahydropterin synthase,Not found. May be known by a different name.,Not found
-228,"Ceroid Lipofuscinosis, Neuronal, 7",1,0.72,MFSD8,major facilitator superfamily domain containing 8,Not found. May be known by a different name.,Not found
-229,"Primary ciliary dyskinesia, 3",1,0.72,DNAH5,"dynein, axonemal, heavy chain 5",Not found. May be known by a different name.,Not found
-230,"Neuronopathy, Distal Hereditary Motor, Type IIB",1,0.72,HSPB1,heat shock 27kDa protein 1,Not found. May be known by a different name.,Not found
-231,"Cardiomyopathy, Familial Hypertrophic, 10",1,0.72,MYL2,"myosin, light chain 2, regulatory, cardiac, slow",Not found. May be known by a different name.,Not found
-232,"Deafness, Autosomal Dominant 36",1,0.72,TMC1,transmembrane channel-like 1,Not found. May be known by a different name.,Not found
-233,"MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 5",1,0.72,FKRP,fukutin related protein,Not found. May be known by a different name.,Not found
-234,Asphyxiating Thoracic Dystrophy 2,1,0.72,IFT80,intraflagellar transport 80,Not found. May be known by a different name.,Not found
-235,"Cardiomyopathy, Dilated, 1i",1,0.72,DES,desmin,Not found. May be known by a different name.,Not found
-236,"Charcot-Marie-Tooth Disease, Axonal, Type 2A2",1,0.72,MFN2,mitofusin 2,Not found. May be known by a different name.,Not found
-237,"Spastic Paraplegia 7, Autosomal Recessive",1,0.72,SPG7,spastic paraplegia 7 (pure and complicated autosomal recessive),Not found. May be known by a different name.,Not found
-238,"Neutropenia, Severe Congenital, Autosomal Dominant 2",1,0.72,GFI1,growth factor independent 1 transcription repressor,Not found. May be known by a different name.,Not found
-239,Glycine N-Methyltransferase Deficiency,1,0.72,GNMT,glycine N-methyltransferase,Not found. May be known by a different name.,Not found
-240,MITOCHONDRIAL DNA DEPLETION SYNDROME 5 (ENCEPHALOMYOPATHIC WITH OR WITHOUT METHYLMALONIC ACIDURIA),1,0.72,SUCLA2,"succinate-CoA ligase, ADP-forming, beta subunit",Not found. May be known by a different name.,Not found
-241,"Arrhythmogenic Right Ventricular Dysplasia, Familial, 12",1,0.72,JUP,junction plakoglobin,Not found. May be known by a different name.,Not found
-242,"CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 12",1,0.72,CSRP3,cysteine and glycine-rich protein 3 (cardiac LIM protein),Not found. May be known by a different name.,Not found
-243,Nemaline myopathy 3,1,0.72,ACTA1,"actin, alpha 1, skeletal muscle",Not found. May be known by a different name.,Not found
-244,"Deafness, Autosomal Dominant 12",1,0.72,TECTA,tectorin alpha,Not found. May be known by a different name.,Not found
-245,"Tooth Agenesis, Selective, 3",1,0.72,PAX9,paired box 9,Not found. May be known by a different name.,Not found
-246,"Deafness, Autosomal Recessive 3",1,0.72,MYO15A,myosin XVA,Not found. May be known by a different name.,Not found
-247,Holoprosencephaly 5,1,0.72,ZIC2,Zic family member 2,Not found. May be known by a different name.,Not found
-248,Cornea Plana 2,1,0.72,KERA,keratocan,Not found. May be known by a different name.,Not found
-249,"Microcephaly, Primary Autosomal Recessive, 5",1,0.72,ASPM,"asp (abnormal spindle) homolog, microcephaly associated (Drosophila)",Not found. May be known by a different name.,Not found
-250,"Lissencephaly, X-Linked, 2",1,0.72,ARX,aristaless related homeobox,Not found. May be known by a different name.,Not found
-251,Thyroid Dyshormonogenesis 3,1,0.72,TG,thyroglobulin,Not found. May be known by a different name.,Not found
-252,"AUTISM, SUSCEPTIBILITY TO, X-LINKED 1",1,0.72,NLGN3,neuroligin 3,Not found. May be known by a different name.,Not found
-253,"Ceroid Lipofuscinosis, Neuronal, 2",3,0.72,TPP1,tripeptidyl peptidase I,Not found. May be known by a different name.,Not found
-254,Noonan Syndrome 5,1,0.72,RAF1,"Raf-1 proto-oncogene, serine/threonine kinase",Not found. May be known by a different name.,Not found
-255,"Epiphyseal dysplasia, multiple, 5",1,0.72,MATN3,matrilin 3,Not found. May be known by a different name.,Not found
-256,"Fibrosis Of Extraocular Muscles, Congenital, 3A, with or without Extraocular Involvement",1,0.72,TUBB3,"tubulin, beta 3 class III",Not found. May be known by a different name.,Not found
-257,"Cataract, Coppock-Like",3,0.72,CRYGC,"crystallin, gamma C",Not found. May be known by a different name.,Not found
-258,"Nephrotic syndrome, idiopathic, steroid-resistant",3,0.72,NPHS2,"nephrosis 2, idiopathic, steroid-resistant (podocin)",Not found. May be known by a different name.,Not found
-259,"Factor Xiii, A Subunit, Deficiency Of",1,0.72,F13A1,"coagulation factor XIII, A1 polypeptide",Not found. May be known by a different name.,Not found
-260,Joubert syndrome 3,1,0.72,AHI1,Abelson helper integration site 1,Not found. May be known by a different name.,Not found
-261,"Cardiomyopathy, Familial Hypertrophic, 6",1,0.72,PRKAG2,"protein kinase, AMP-activated, gamma 2 non-catalytic subunit",Not found. May be known by a different name.,Not found
-262,"Deafness, Autosomal Recessive 37",1,0.72,MYO6,myosin VI,Not found. May be known by a different name.,Not found
-263,Progressive hearing loss stapes fixation,1,0.72,POU3F4,POU class 3 homeobox 4,Not found. May be known by a different name.,Not found
-264,Retinitis Pigmentosa 13,1,0.72,PRPF8,pre-mRNA processing factor 8,Not found. May be known by a different name.,Not found
-265,"Ectrodactyly, Ectodermal Dysplasia, and Cleft Lip/Palate Syndrome 3",1,0.72,TP63,tumor protein p63,Not found. May be known by a different name.,Not found
-266,"Deafness, Autosomal Recessive 9",1,0.72,OTOF,otoferlin,Not found. May be known by a different name.,Not found
-267,"Epiphyseal dysplasia, multiple, 1",1,0.72,COMP,cartilage oligomeric matrix protein,Not found. May be known by a different name.,Not found
-268,Orofacial Cleft 5,1,0.72,MSX1,msh homeobox 1,Not found. May be known by a different name.,Not found
-269,Narcolepsy 1,3,0.72,HCRT,hypocretin (orexin) neuropeptide precursor,Not found. May be known by a different name.,Not found
-270,"Charcot-Marie-Tooth Disease, Axonal, Type 2a1",1,0.72,KIF1B,kinesin family member 1B,Not found. May be known by a different name.,Not found
-271,"DEAFNESS, AUTOSOMAL RECESSIVE 74",1,0.72,MSRB3,methionine sulfoxide reductase B3,Not found. May be known by a different name.,Not found
-272,Cerebral Cavernous Malformations 2,1,0.72,CCM2,cerebral cavernous malformation 2,Not found. May be known by a different name.,Not found
-273,Amyotrophic Lateral Sclerosis 8,1,0.72,VAPB,VAMP (vesicle-associated membrane protein)-associated protein B and C,Not found. May be known by a different name.,Not found
-274,"Deafness, Autosomal Recessive 7",1,0.72,TMC1,transmembrane channel-like 1,Not found. May be known by a different name.,Not found
-275,Alpha-B Crystallinopathy,1,0.72,CRYAB,"crystallin, alpha B",Not found. May be known by a different name.,Not found
-276,"MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 6",1,0.72,LARGE,like-glycosyltransferase,Not found. May be known by a different name.,Not found
+183,"Charcot-Marie-Tooth disease, Type 2B1",1,0.72,LMNA,lamin A/C,Not found. May be known by a different name.,Category not identified
+184,Joubert syndrome 6,1,0.72,TMEM67,transmembrane protein 67,Not found. May be known by a different name.,Category not identified
+185,Focal Segmental Glomerulosclerosis 2,1,0.72,TRPC6,"transient receptor potential cation channel, subfamily C, member 6",Not found. May be known by a different name.,Category not identified
+186,"Cardiomyopathy, Dilated, 1g",1,0.72,TTN,titin,Not found. May be known by a different name.,Category not identified
+187,"Deafness, Autosomal Dominant 13",1,0.72,COL11A2,"collagen, type XI, alpha 2",Not found. May be known by a different name.,Category not identified
+188,"PARKINSON DISEASE 1, AUTOSOMAL DOMINANT",1,0.72,SNCA,"synuclein, alpha (non A4 component of amyloid precursor)",Not found. May be known by a different name.,Category not identified
+189,"Granulomatous Disease, Chronic, Autosomal Recessive, Cytochrome B-Positive, Type I",1,0.72,NCF1,neutrophil cytosolic factor 1,Not found. May be known by a different name.,Category not identified
+190,Holoprosencephaly 3,2,0.72,SHH,sonic hedgehog,Not found. May be known by a different name.,Category not identified
+191,"Ceroid Lipofuscinosis, Neuronal, 10",1,0.72,CTSD,cathepsin D,Not found. May be known by a different name.,Category not identified
+192,MITOCHONDRIAL DNA DEPLETION SYNDROME 2 (MYOPATHIC TYPE),2,0.72,TK2,"thymidine kinase 2, mitochondrial",Not found. May be known by a different name.,Category not identified
+193,"Cardiomyopathy, Familial Hypertrophic, 4",1,0.72,MYBPC3,"myosin binding protein C, cardiac",Not found. May be known by a different name.,Category not identified
+194,"Granulomatous Disease, Chronic, X-Linked",1,0.72,CYBB,"cytochrome b-245, beta polypeptide",Not found. May be known by a different name.,Category not identified
+195,"Deafness, Autosomal Recessive 59",1,0.72,DFNB59,"deafness, autosomal recessive 59",Not found. May be known by a different name.,Category not identified
+196,"Spinocerebellar ataxia, autosomal recessive, with axonal neuropathy",1,0.72,TDP1,tyrosyl-DNA phosphodiesterase 1,Not found. May be known by a different name.,Category not identified
+197,"Deafness, Autosomal Recessive 12",2,0.72,CDH23,cadherin-related 23,Not found. May be known by a different name.,Category not identified
+198,"Immunodeficiency syndrome, variable",2,0.72,DNMT3B,DNA (cytosine-5-)-methyltransferase 3 beta,Not found. May be known by a different name.,Category not identified
+199,"Erythrocytosis, Familial, 2",2,0.72,VHL,"von Hippel-Lindau tumor suppressor, E3 ubiquitin protein ligase",Not found. May be known by a different name.,Category not identified
+200,"Spastic paraplegia 13, autosomal dominant",1,0.72,HSPD1,heat shock 60kDa protein 1 (chaperonin),Not found. May be known by a different name.,Category not identified
+201,"Night Blindness, Congenital Stationary, Autosomal Dominant 1",1,0.72,RHO,rhodopsin,Not found. May be known by a different name.,Category not identified
+202,Short QT Syndrome 1,1,0.72,KCNH2,"potassium channel, voltage gated eag related subfamily H, member 2",Not found. May be known by a different name.,Category not identified
+203,"Glycogen Storage Disease, Type IXD",1,0.72,PHKA1,"phosphorylase kinase, alpha 1 (muscle)",Not found. May be known by a different name.,Category not identified
+204,"Osteopetrosis, Autosomal Recessive 4",1,0.72,CLCN7,"chloride channel, voltage-sensitive 7",Not found. May be known by a different name.,Category not identified
+205,Exudative Vitreoretinopathy 5,1,0.72,TSPAN12,tetraspanin 12,Not found. May be known by a different name.,Category not identified
+206,"Night Blindness, Congenital Stationary, Autosomal Dominant 2",1,0.72,PDE6B,"phosphodiesterase 6B, cGMP-specific, rod, beta",Not found. May be known by a different name.,Category not identified
+207,"Hemophagocytic lymphohistiocytosis, familial, 2",4,0.72,PRF1,perforin 1 (pore forming protein),Not found. May be known by a different name.,Category not identified
+208,Brugada Syndrome 7,1,0.72,SCN3B,"sodium channel, voltage gated, type III beta subunit",Not found. May be known by a different name.,Category not identified
+209,"HEMOLYTIC ANEMIA, NONSPHEROCYTIC, DUE TO GLUCOSE PHOSPHATE ISOMERASE DEFICIENCY",1,0.72,GPI,glucose-6-phosphate isomerase,Not found. May be known by a different name.,Category not identified
+210,Meretoja syndrome,1,0.72,GSN,gelsolin,Not found. May be known by a different name.,Category not identified
+211,Atrial septal defect 2,1,0.72,GATA4,GATA binding protein 4,Not found. May be known by a different name.,Category not identified
+212,"Surfactant Metabolism Dysfunction, Pulmonary, 3",1,0.72,ABCA3,"ATP-binding cassette, sub-family A (ABC1), member 3",Not found. May be known by a different name.,Category not identified
+213,"Cardiomyopathy, Dilated, 1D",1,0.72,TNNT2,troponin T type 2 (cardiac),Not found. May be known by a different name.,Category not identified
+214,Osler-rendu-weber syndrome 2,1,0.72,ACVRL1,activin A receptor type II-like 1,Not found. May be known by a different name.,Category not identified
+215,Noonan Syndrome 4,1,0.72,SOS1,son of sevenless homolog 1 (Drosophila),Not found. May be known by a different name.,Category not identified
+216,"PARKINSON DISEASE 8, AUTOSOMAL DOMINANT",1,0.72,LRRK2,leucine-rich repeat kinase 2,Not found. May be known by a different name.,Category not identified
+217,Bifunctional peroxisomal enzyme deficiency,2,0.72,HSD17B4,hydroxysteroid (17-beta) dehydrogenase 4,Not found. May be known by a different name.,Category not identified
+218,"Cardiomyopathy, Dilated, 1C",4,0.72,LDB3,LIM domain binding 3,Not found. May be known by a different name.,Category not identified
+219,"Myasthenic syndrome, congenital, type Id",4,0.72,MUSK,"muscle, skeletal, receptor tyrosine kinase",Not found. May be known by a different name.,Category not identified
+220,"Myasthenic syndrome, congenital, type Id",4,0.72,CHRNE,"cholinergic receptor, nicotinic, epsilon (muscle)",Not found. May be known by a different name.,Category not identified
+221,Joubert syndrome 5,1,0.72,CEP290,centrosomal protein 290kDa,Not found. May be known by a different name.,Category not identified
+222,"Osteopetrosis, Autosomal Recessive 1",2,0.72,TCIRG1,"T-cell, immune regulator 1, ATPase, H+ transporting, lysosomal V0 subunit A3",Not found. May be known by a different name.,Category not identified
+223,"Stickler Syndrome, Type I, Nonsyndromic Ocular",1,0.72,COL2A1,"collagen, type II, alpha 1",Not found. May be known by a different name.,Category not identified
+224,"Ceroid Lipofuscinosis, Neuronal, 1",1,0.72,PPT1,palmitoyl-protein thioesterase 1,Not found. May be known by a different name.,Category not identified
+225,"Heterotaxy, visceral, X-linked",2,0.72,ZIC3,Zic family member 3,Not found. May be known by a different name.,Category not identified
+226,Leber Congenital Amaurosis 14,1,0.72,LRAT,lecithin retinol acyltransferase (phosphatidylcholine--retinol O-acyltransferase),Not found. May be known by a different name.,Category not identified
+227,6-pyruvoyl-tetrahydropterin synthase deficiency,1,0.72,PTS,6-pyruvoyltetrahydropterin synthase,Not found. May be known by a different name.,Category not identified
+228,"Ceroid Lipofuscinosis, Neuronal, 7",1,0.72,MFSD8,major facilitator superfamily domain containing 8,Not found. May be known by a different name.,Category not identified
+229,"Primary ciliary dyskinesia, 3",1,0.72,DNAH5,"dynein, axonemal, heavy chain 5",Not found. May be known by a different name.,Category not identified
+230,"Neuronopathy, Distal Hereditary Motor, Type IIB",1,0.72,HSPB1,heat shock 27kDa protein 1,Not found. May be known by a different name.,Category not identified
+231,"Cardiomyopathy, Familial Hypertrophic, 10",1,0.72,MYL2,"myosin, light chain 2, regulatory, cardiac, slow",Not found. May be known by a different name.,Category not identified
+232,"Deafness, Autosomal Dominant 36",1,0.72,TMC1,transmembrane channel-like 1,Not found. May be known by a different name.,Category not identified
+233,"MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 5",1,0.72,FKRP,fukutin related protein,Not found. May be known by a different name.,Category not identified
+234,Asphyxiating Thoracic Dystrophy 2,1,0.72,IFT80,intraflagellar transport 80,Not found. May be known by a different name.,Category not identified
+235,"Cardiomyopathy, Dilated, 1i",1,0.72,DES,desmin,Not found. May be known by a different name.,Category not identified
+236,"Charcot-Marie-Tooth Disease, Axonal, Type 2A2",1,0.72,MFN2,mitofusin 2,Not found. May be known by a different name.,Category not identified
+237,"Spastic Paraplegia 7, Autosomal Recessive",1,0.72,SPG7,spastic paraplegia 7 (pure and complicated autosomal recessive),Not found. May be known by a different name.,Category not identified
+238,"Neutropenia, Severe Congenital, Autosomal Dominant 2",1,0.72,GFI1,growth factor independent 1 transcription repressor,Not found. May be known by a different name.,Category not identified
+239,Glycine N-Methyltransferase Deficiency,1,0.72,GNMT,glycine N-methyltransferase,Not found. May be known by a different name.,Category not identified
+240,MITOCHONDRIAL DNA DEPLETION SYNDROME 5 (ENCEPHALOMYOPATHIC WITH OR WITHOUT METHYLMALONIC ACIDURIA),1,0.72,SUCLA2,"succinate-CoA ligase, ADP-forming, beta subunit",Not found. May be known by a different name.,Category not identified
+241,"Arrhythmogenic Right Ventricular Dysplasia, Familial, 12",1,0.72,JUP,junction plakoglobin,Not found. May be known by a different name.,Category not identified
+242,"CARDIOMYOPATHY, FAMILIAL HYPERTROPHIC, 12",1,0.72,CSRP3,cysteine and glycine-rich protein 3 (cardiac LIM protein),Not found. May be known by a different name.,Category not identified
+243,Nemaline myopathy 3,1,0.72,ACTA1,"actin, alpha 1, skeletal muscle",Not found. May be known by a different name.,Category not identified
+244,"Deafness, Autosomal Dominant 12",1,0.72,TECTA,tectorin alpha,Not found. May be known by a different name.,Category not identified
+245,"Tooth Agenesis, Selective, 3",1,0.72,PAX9,paired box 9,Not found. May be known by a different name.,Category not identified
+246,"Deafness, Autosomal Recessive 3",1,0.72,MYO15A,myosin XVA,Not found. May be known by a different name.,Category not identified
+247,Holoprosencephaly 5,1,0.72,ZIC2,Zic family member 2,Not found. May be known by a different name.,Category not identified
+248,Cornea Plana 2,1,0.72,KERA,keratocan,Not found. May be known by a different name.,Category not identified
+249,"Microcephaly, Primary Autosomal Recessive, 5",1,0.72,ASPM,"asp (abnormal spindle) homolog, microcephaly associated (Drosophila)",Not found. May be known by a different name.,Category not identified
+250,"Lissencephaly, X-Linked, 2",1,0.72,ARX,aristaless related homeobox,Not found. May be known by a different name.,Category not identified
+251,Thyroid Dyshormonogenesis 3,1,0.72,TG,thyroglobulin,Not found. May be known by a different name.,Category not identified
+252,"AUTISM, SUSCEPTIBILITY TO, X-LINKED 1",1,0.72,NLGN3,neuroligin 3,Not found. May be known by a different name.,Category not identified
+253,"Ceroid Lipofuscinosis, Neuronal, 2",3,0.72,TPP1,tripeptidyl peptidase I,Not found. May be known by a different name.,Category not identified
+254,Noonan Syndrome 5,1,0.72,RAF1,"Raf-1 proto-oncogene, serine/threonine kinase",Not found. May be known by a different name.,Category not identified
+255,"Epiphyseal dysplasia, multiple, 5",1,0.72,MATN3,matrilin 3,Not found. May be known by a different name.,Category not identified
+256,"Fibrosis Of Extraocular Muscles, Congenital, 3A, with or without Extraocular Involvement",1,0.72,TUBB3,"tubulin, beta 3 class III",Not found. May be known by a different name.,Category not identified
+257,"Cataract, Coppock-Like",3,0.72,CRYGC,"crystallin, gamma C",Not found. May be known by a different name.,Category not identified
+258,"Nephrotic syndrome, idiopathic, steroid-resistant",3,0.72,NPHS2,"nephrosis 2, idiopathic, steroid-resistant (podocin)",Not found. May be known by a different name.,Category not identified
+259,"Factor Xiii, A Subunit, Deficiency Of",1,0.72,F13A1,"coagulation factor XIII, A1 polypeptide",Not found. May be known by a different name.,Category not identified
+260,Joubert syndrome 3,1,0.72,AHI1,Abelson helper integration site 1,Not found. May be known by a different name.,Category not identified
+261,"Cardiomyopathy, Familial Hypertrophic, 6",1,0.72,PRKAG2,"protein kinase, AMP-activated, gamma 2 non-catalytic subunit",Not found. May be known by a different name.,Category not identified
+262,"Deafness, Autosomal Recessive 37",1,0.72,MYO6,myosin VI,Not found. May be known by a different name.,Category not identified
+263,Progressive hearing loss stapes fixation,1,0.72,POU3F4,POU class 3 homeobox 4,Not found. May be known by a different name.,Category not identified
+264,Retinitis Pigmentosa 13,1,0.72,PRPF8,pre-mRNA processing factor 8,Not found. May be known by a different name.,Category not identified
+265,"Ectrodactyly, Ectodermal Dysplasia, and Cleft Lip/Palate Syndrome 3",1,0.72,TP63,tumor protein p63,Not found. May be known by a different name.,Category not identified
+266,"Deafness, Autosomal Recessive 9",1,0.72,OTOF,otoferlin,Not found. May be known by a different name.,Category not identified
+267,"Epiphyseal dysplasia, multiple, 1",1,0.72,COMP,cartilage oligomeric matrix protein,Not found. May be known by a different name.,Category not identified
+268,Orofacial Cleft 5,1,0.72,MSX1,msh homeobox 1,Not found. May be known by a different name.,Category not identified
+269,Narcolepsy 1,3,0.72,HCRT,hypocretin (orexin) neuropeptide precursor,Not found. May be known by a different name.,Category not identified
+270,"Charcot-Marie-Tooth Disease, Axonal, Type 2a1",1,0.72,KIF1B,kinesin family member 1B,Not found. May be known by a different name.,Category not identified
+271,"DEAFNESS, AUTOSOMAL RECESSIVE 74",1,0.72,MSRB3,methionine sulfoxide reductase B3,Not found. May be known by a different name.,Category not identified
+272,Cerebral Cavernous Malformations 2,1,0.72,CCM2,cerebral cavernous malformation 2,Not found. May be known by a different name.,Category not identified
+273,Amyotrophic Lateral Sclerosis 8,1,0.72,VAPB,VAMP (vesicle-associated membrane protein)-associated protein B and C,Not found. May be known by a different name.,Category not identified
+274,"Deafness, Autosomal Recessive 7",1,0.72,TMC1,transmembrane channel-like 1,Not found. May be known by a different name.,Category not identified
+275,Alpha-B Crystallinopathy,1,0.72,CRYAB,"crystallin, alpha B",Not found. May be known by a different name.,Category not identified
+276,"MUSCULAR DYSTROPHY-DYSTROGLYCANOPATHY (CONGENITAL WITH BRAIN AND EYE ANOMALIES), TYPE A, 6",1,0.72,LARGE,like-glycosyltransferase,Not found. May be known by a different name.,Category not identified
